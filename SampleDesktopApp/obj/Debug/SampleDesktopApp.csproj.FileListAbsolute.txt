@@ -1,0 +1,9 @@
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\bin\Debug\SampleDesktopApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\bin\Debug\SampleDesktopApp.exe
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\bin\Debug\SampleDesktopApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.Form1.resources
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.Properties.Resources.resources
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.csproj.GenerateResource.Cache
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.exe
+E:\SEIP.NET\Batch 20\2018.10.17\SampleDesktopApp\SampleDesktopApp\obj\Debug\SampleDesktopApp.pdb
